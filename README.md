@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **Rust** <img src="https://avatars.githubusercontent.com/u/5430905?s=&v=4" alt="rust" width="16" height="16" >
-- 💬 Ask me about **react, javascript, frontend development**
+- 💬 Ask me about **react, typeScript, javascript, frontend development**
 - 📫 How to reach me **gurprit.business94@gmail.com**
 
 
